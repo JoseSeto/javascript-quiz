@@ -2,10 +2,15 @@
 <https://joseseto.github.io/javascript-quiz/>
 
 Screenshots of functioning site
+Start of the quiz
 ![quiz start](assests/images/quiz%20start.png?raw=true "Initial load of the page")
+Rules of the quiz
 ![quiz rules](assests/images/quiz%20rules.png?raw=true "After clicking start, rules are shown")
+Question box
 ![quiz question](assests/images/quiz%20question.png?raw=true "Main question box of the quiz")
+Result page
 ![quiz result](assests/images/quiz%20result.png?raw=true "Result screen after the quiz")
+
 ## <a name="_l6zxt7buh5j6"></a>**Web APIs Challenge: Code Quiz**
 As you proceed in your journey to becoming a full-stack web developer, it’s likely that you’ll be asked to complete a coding assessment, perhaps as part of an interview process. A typical coding assessment is a combination of multiple-choice questions and interactive coding challenges.
 
